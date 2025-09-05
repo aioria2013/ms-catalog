@@ -1,0 +1,6 @@
+@ms_catalog_HostAddress = http://localhost:5014
+
+GET {{ms_catalog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
